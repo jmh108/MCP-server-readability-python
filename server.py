@@ -8,7 +8,7 @@ import html2text
 mcp = FastMCP("Readability Server")
 
 @mcp.tool()
-def parse(url: str) -> dict:
+def extract_content(url: str) -> dict:
     """Fetch and transform webpage content into clean Markdown with metadata"""
     try:
         # Fetch webpage content
