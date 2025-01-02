@@ -1,5 +1,12 @@
 # Mozilla Readability Parser MCP Server (Python)
 
+## Original Implementation Reference
+This project is based on the original [server-moz-readability](https://github.com/emzimmer/server-moz-readability) implementation. For the original README documentation, please refer to the [original README.md](https://github.com/emzimmer/server-moz-readability/blob/main/readme.md).
+
+This Python implementation adapts the original concept to work with the Model Context Protocol (MCP) while maintaining the core functionality of extracting clean, readable content from web pages.
+
+# Mozilla Readability Parser MCP Server (Python)
+
 A Python implementation of the [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) server that extracts and transforms webpage content into clean, LLM-optimized Markdown.
 
 ## Table of Contents
