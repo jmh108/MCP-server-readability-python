@@ -1,4 +1,4 @@
-# Mozilla Readability Parser MCP Server (Python / FastMCP)
+# MCP Server Readability Parser (Python / FastMCP)
 
 ## Credits/Reference
 This project is based on the original [server-moz-readability](https://github.com/emzimmer/server-moz-readability) implementation of [emzimmer](https://github.com/emzimmer). (For the original README documentation, please refer to the [original README.md](https://github.com/emzimmer/server-moz-readability/blob/main/readme.md).)
