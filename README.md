@@ -39,8 +39,8 @@ Unlike simple fetch requests, this server:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jmh108/server-moz-readability-python.git
-cd server-moz-readability
+git clone https://github.com/jmh108/MCP-server-readability-python.git
+cd MCP-server-readability-python
 ```
 
 2. Create and activate a virtual environment:
